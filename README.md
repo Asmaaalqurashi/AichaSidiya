@@ -10,19 +10,29 @@
 :raising_hand: I'm a sophomore computer science, working on making programing fun to learn.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
-- 🌱 Studying Computer Science 
+
+- 🌱 Studying Computer Science
+ 
 - 🤔 Looking for open source to contribute
+
+- 📫 How to reach me aichasidiya@gmail.com
+
 - 🧪Interested in bioinformatics
+
 - 📈 Looking to improve my skills
 
 
 ## MY GITHUB STAT
 
-<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=dracula"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=dracula"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=dracula"/>|<img alt="Aich's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=dracula"/>
 |---|---|
 
+
 ## TOP PROGRAMING LANGUAGES
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AichaSidiya&theme=dracula)
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
