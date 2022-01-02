@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hi%20there%20👋%20I'm%20Aicha&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋%20I'm%20Aicha&fontSize=70)
 
-Hi, I'm Ye Chan. I'm developing to make services that will improve our lives.
+:raising_hand: I'm a sophomore computer science, working on making programing fun to learn.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - :mortar_board: College student
-- 🌱 Learning Web full stack
+- 🌱 Studying Computer Science 
 - 🤔 Looking for open source to contribute
-- :video_game: Making a game as a hobby
+- :microbe: Interested in bioinformatics
+- :sparkles: Looking to improve my skills
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
