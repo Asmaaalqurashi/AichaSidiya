@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋%20I'm%20Aicha&fontSize=70)
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aicha-sidiya-122009221/)](https://www.linkedin.com/in/aicha-sidiya-122009221/)
+<a href="https://AichaSidiya.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
+<a href="https://AichaSidiya.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AichaSidiya)
 ## ABOUT ME
 
 :raising_hand: I'm a sophomore computer science, working on making programing fun to learn.
