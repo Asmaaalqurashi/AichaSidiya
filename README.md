@@ -13,6 +13,8 @@
 
 ## MY GITHUB STAT
 
+<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=radical"/>|
+|---|---|
 
 ## TOP PROGRAMING LANGUAGES
 
