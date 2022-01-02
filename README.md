@@ -13,11 +13,11 @@
 
 ## MY GITHUB STAT
 
-<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=buefy"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=buefy"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=dracula"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=dracula"/>|
 |---|---|
 
 ## TOP PROGRAMING LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AichaSidiya&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AichaSidiya&theme=dracula)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
