@@ -24,9 +24,10 @@
 
 ## MY GITHUB STAT
 
-<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=dracula"/>|<img alt="Aich's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AichaSidiya&&show_icons=true&count_private=true&theme=dracula" width=400/>|<img alt="Aich's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AichaSidiya&theme=dracula" width=400/>
 |---|---|
 
+<a href="https://github.com/AichaSidiya/github-readme-activity-graph"><img alt="Aicha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AichaSidiya&theme=dracula" width=850/></a>
 
 ## TOP PROGRAMING LANGUAGES
 
