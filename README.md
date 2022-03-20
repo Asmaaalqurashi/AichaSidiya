@@ -3,7 +3,7 @@
 ## ABOUT ME
 
 :raising_hand: I'm a sophomore computer science, working on making programing fun to learn.
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20)
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
 
 - 🌱 Studying Computer Science
