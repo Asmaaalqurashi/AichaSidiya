@@ -48,6 +48,6 @@
 </a>
 <a href="https://github.com/AichaSidiya?tab=followers"><img src="https://img.shields.io/github/followers/AichaSidiya?label=Followers&style=social" alt="GitHub Badge"></a>
 
- 
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=Hi%20there%20👋%20I'm%20Aicha&fontSize=30&fontAlign=70&rotate=13&fontAlignY=25)
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
