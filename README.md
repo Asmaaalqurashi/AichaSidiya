@@ -1,16 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋%20I'm%20Aicha&fontSize=70)
 
-## ABOUT ME
 
-:raising_hand: I'm a sophomore computer science, working on making programing fun to learn.
+
+<
+
+:raising_hand: I'm a senior Electrical and Computer Engineering at effat university , working on making programing fun to learn.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
 
-- 🌱 Studying Computer Science
+- 🌱 Studying Electrical and Computer Engineering
  
 - 🤔 Looking for open source to contribute
 
-- 📫 How to reach me aichasidiya@gmail.com
+- 📫 How to reach me asalqurashi@effat.edu.sa
 
 - 🧪Interested in bioinformatics
 
